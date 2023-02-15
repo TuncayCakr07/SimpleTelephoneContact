@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\busra\Desktop\Satış_takip\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
